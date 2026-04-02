@@ -82,3 +82,9 @@ TestResults/
 
 # Unity addressables build path
 Assets/AddressableAssetsData/*/AssetBundles/
+
+# Code from original fork
+BasicChessAI1D.cs
+ChessBoard.cs
+ChessGameManager1D.cs
+IChessAI.cs
