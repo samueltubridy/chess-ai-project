@@ -2,10 +2,12 @@
 
 Developing off a chess game framework in Unity, this AI battles the player by determining the best move through the minimax algorithm. Players can select a range of difficulties from easy to hard. Bonus: Press space to get a better view of the board.
 
-[Play the chess AI here!](https://samueltubridy.itch.io/benchmate)
-
 <div align="center">
 <<img width="683" height="383" alt="image" src="https://github.com/user-attachments/assets/f4e5e984-ed6d-49bc-9ed7-475a37617cbc" />
+
+  [Play the chess AI here!](https://samueltubridy.itch.io/benchmate)
+
+<div align="left">
 
 ## How it Works
 
